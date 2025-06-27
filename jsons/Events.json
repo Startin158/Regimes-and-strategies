@@ -3,7 +3,6 @@
         "name": "Chose what your nation is.",
         "text": "You have founded a city; here begins your nation's new ambitions. What do you want to become in the future?",
         "uniques": ["Only available <before turn number [2]>"]
- [
             {
                 "text": "1",
                 "uniques": ["[3] free [Brute] units appear <for [Barbarians] Civilizations> <in [in cities being razed] cities>","[2] free [Brute] units appear <for [Barbarians] Civilizations> <in [in annexed cities] cities>","[1] free [Brute] units appear <for [Barbarians] Civilizations> <in [in puppeted cities] cities>","[3] free [Brute] units appear <for [Barbarians] Civilizations> <in [in capital] cities>","Rebel units may spawn <for [10] turns>"],
@@ -16,7 +15,6 @@
                 "text": "3",
                 "uniques": ["Gain [-65] [Gold] <in [in annexed cities] cities>","Gain [-120] [Gold] <in [in all cities] cities>","Empire enters a [10]-turn Golden Age","Gain [5] [Happiness] <in [in all cities] cities> <for [30] turns>","Gain [5] [Happiness] <in [in all cities] cities> <for [4] turns>"],
             },
-        ]
     },
 
 ]

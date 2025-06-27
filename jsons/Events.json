@@ -6,15 +6,15 @@
         "choices": [
             {
                 "text": "Becoming a empire",
-                "uniques": [""],
+                "uniques": ["Adopt [Legalism]","Comment [yo1]"],
             },
             {
                 "text": "Becoming a colonial empire",
-                "uniques": [""],
+                "uniques": ["Adopt [Legalism]","Comment [yo2]"],
             },
             {
                 "text": "Becoming a simple state",
-                "uniques": [""],
+                "uniques": ["Adopt [Legalism]","Comment [yo3]"],
             },
          ]
     },

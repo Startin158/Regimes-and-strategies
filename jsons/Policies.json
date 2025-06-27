@@ -32,9 +32,7 @@
             },
             {
                 "name": "Colonial Empire",
-                "uniques": [
-                    "[+50]% Strength for cities","[100]% Strength <for units without [Agressif]> <when defending>",
-                    "[+10]% weight to this choice for AI decisions"
+                "uniques": ["[+50]% Production when constructing [Settler] units [in thys city]"
                 ],
                 "row": 3,
                 "column": 1

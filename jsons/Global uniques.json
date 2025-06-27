@@ -1,3 +1,3 @@
 {
     "name": "Global uniques",
-    "uniques": ["Triggers a [Revolt] event <if [Plot a rebellion in another country] is constructed by anybody> <when below [1] [Planned value]> <when below [1] [Confrontation value]> <with [33]% chance> <upon turn end>"]
+    "uniques": ["Triggers a [Chose what your nation is.] event <upon founding a city> <with [100]% chance> <upon turn end>"]

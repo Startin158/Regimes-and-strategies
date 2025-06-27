@@ -2,8 +2,7 @@
     {
         "name": "Chose what your nation is.",
         "text": "You have founded a city; here begins your nation's new ambitions. What do you want to become in the future?",
-        "uniques": [""]
-        "choices": [
+        "uniques": ["Only available <before turn number [2]> [
             {
                 "text": "1",
                 "uniques": ["[3] free [Brute] units appear <for [Barbarians] Civilizations> <in [in cities being razed] cities>","[2] free [Brute] units appear <for [Barbarians] Civilizations> <in [in annexed cities] cities>","[1] free [Brute] units appear <for [Barbarians] Civilizations> <in [in puppeted cities] cities>","[3] free [Brute] units appear <for [Barbarians] Civilizations> <in [in capital] cities>","Rebel units may spawn <for [10] turns>"],

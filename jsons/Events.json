@@ -5,16 +5,16 @@
         "uniques": ["Only available <before turn number [2]>"]
         "choices": [
             {
-                "text": "1",
-                "uniques": ["[3] free [Brute] units appear <for [Barbarians] Civilizations> <in [in cities being razed] cities>","[2] free [Brute] units appear <for [Barbarians] Civilizations> <in [in annexed cities] cities>","[1] free [Brute] units appear <for [Barbarians] Civilizations> <in [in puppeted cities] cities>","[3] free [Brute] units appear <for [Barbarians] Civilizations> <in [in capital] cities>","Rebel units may spawn <for [10] turns>"],
+                "text": "Becoming a empire",
+                "uniques": [""],
             },
             {
-                "text": "2",
-                "uniques": ["[-15]% [Production] [in all cities] <for [10] turns>","[-15]% [Science] [in all cities] <for [15] turns>","[-30]% [Gold] [in all cities] <for [20] turns>","Cannot build [Settler] units <for [10] turns>","Nullifies Growth [in all cities] <for [4] turns>","[-15]% Strength <for [25] turns>","Rebel units may spawn <for [4] turns>","Gain [1] [Happiness] <in [in all cities] cities> <for [25] turns>"],
+                "text": "Becoming a colonial empire",
+                "uniques": [""],
             },
             {
-                "text": "3",
-                "uniques": ["Gain [-65] [Gold] <in [in annexed cities] cities>","Gain [-120] [Gold] <in [in all cities] cities>","Empire enters a [10]-turn Golden Age","Gain [5] [Happiness] <in [in all cities] cities> <for [30] turns>","Gain [5] [Happiness] <in [in all cities] cities> <for [4] turns>"],
+                "text": "Becoming a simple state",
+                "uniques": [""],
             },
          ]
     },

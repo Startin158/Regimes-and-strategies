@@ -6,15 +6,15 @@
         "choices": [
             {
                 "text": "Becoming a empire",
-                "uniques": ["Adopt [Legalism]","Comment [yo1]"],
+                "uniques": ["Adopt [Legalism]","Comment [An empire has difficulty founding new cities, but in compensation it is easier for them to build up their military base and conquer cities.]"],
             },
             {
                 "text": "Becoming a colonial empire",
-                "uniques": ["Adopt [Legalism]","Comment [yo2]"],
+                "uniques": ["Adopt [Legalism]","Comment [A colonial empire has no problem founding colonies in unfamiliar lands, but these colonies are less effective scientifically, culturally, and religiously. But it is possible for them to transform these colonies into real cities.]"],
             },
             {
                 "text": "Becoming a simple state",
-                "uniques": ["Adopt [Legalism]","Comment [yo3]"],
+                "uniques": ["Adopt [Legalism]","Comment [A state is... just a state, no advantages, no disadvantages]"],
             },
          ]
     },

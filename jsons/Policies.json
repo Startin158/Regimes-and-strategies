@@ -32,9 +32,10 @@
             },
             {
                 "name": "Colonial Empire",
-                "uniques": ["[+50]% Production when constructing [Settler] units [in thys city]"
+                "uniques": ["[+50]% Production when constructing [Settler] units [in thys city]","Provides a [colonial city] in your first [100] cities for free <if [non-colonial city] is not constructed> <every [1] turns>"
                 ],
                 "row": 3,
                 "column": 1
             }
 ]
+. 

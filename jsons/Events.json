@@ -2,7 +2,7 @@
     {
         "name": "Chose what your nation is.",
         "text": "You have founded a city; here begins your nation's new ambitions. What do you want to become in the future?",
-        "uniques": ["Only available <upon founding a city>"]
+        "uniques": [""]
         "choices": [
             {
                 "text": "1",

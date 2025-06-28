@@ -45,7 +45,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["[-25]% Culture cost of natural border growth [in this city]","[-25]% Gold cost of acquiring tiles [in this city]",
-			"New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured","Provides [1] [Army]"],
+			"New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured","Provides [2] [Army]"],
 		"requiredTech": "Bronze Working"
 	},
 {
@@ -71,5 +71,14 @@
 		"requiredBuilding": "Armory",
 		"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured","Provides [1] [Army]"],
 		"requiredTech": "Military Science"
+	},
+{
+		"name": "Pentagon",
+		"isWonder": true,
+		"culture": 3,
+		"greatPersonPoints": {"Great Engineer": 2},
+		"uniques": ["[-33]% Gold cost of upgrading <for [Military] units>","Provides [1] [Army]"],
+		"requiredTech": "Combined Arms",
+		"quote": "'In preparing for battle I have always found that plans are useless, but planning is indispensable.' - Dwight D. Eisenhower"
 	},
 ]

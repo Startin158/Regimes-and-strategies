@@ -11,7 +11,7 @@
             "Scientific": 4
         },
         "uniques": [
-            "[-100]% weight to this choice for AI decisions","Only available <before turn number [0]>"
+            "[-100]% weight to this choice for AI decisions","Only available <before turn number [1]>"
         ],
         "policies": [
             {

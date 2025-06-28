@@ -7,11 +7,11 @@
 	},
 	{
 		"name": "non-colonial city",
-		"cost": 80,
+		"cost": 70,
 	 "maintenance": 1,
 		"happiness": 2,
  	"requiredBuilding": "colonial city",
-		"uniques": ["Remove [colonial city] [in this city]","Cost increases by [18] per owned city"],
+		"uniques": ["Remove [colonial city] [in this city]","Cost increases by [10] per owned city"],
 	}
 {
 		"name": "Proof of choice",

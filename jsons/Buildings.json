@@ -1,7 +1,6 @@
 [
 	{
 		"name": "colonial city",
-		"replaces": "Circus Maximus",
 		"cost": 480,
 		"maintenance": 96,
 	},

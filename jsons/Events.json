@@ -25,11 +25,11 @@
         "choices": [
             {
                 "text": "Becoming a empire",
-                "uniques": ["Adopt [Empire]","Comment [Change and become an empire. For the happiness of your people.]"],
+                "uniques": ["Adopt [Empire]","Empire enters a [15]-turn Golden Age","Comment [Change and become an empire. For the happiness of your people.]"],
             },
             {
                 "text": "Becoming a colonial empire",
-                "uniques": ["Adopt [Colonial Empire]","Comment [Change and become a colonial empire. For the happiness of your people.]"],
+                "uniques": ["Adopt [Colonial Empire]","Empire enters a [15]-turn Golden Age","Comment [Change and become a colonial empire. For the happiness of your people.]"],
             },
             {
                 "text": "Don't change",

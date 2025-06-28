@@ -8,9 +8,11 @@
 	{
 		"name": "non-colonial city",
 		"cost": 80,
-		"hurryCostModifier": 80,
+		"hurryCostModifier": 10,
+	 "maintenance": 2,
 		"happiness": 2,
-		"uniques": ["Remove [colonial city] [in this city]"],
+ 	"requiredBuilding": "colonial city",
+		"uniques": ["Remove [colonial city] [in this city]","Cost increases by [20] per owned city"],
 	}
 {
 		"name": "Proof of choice",

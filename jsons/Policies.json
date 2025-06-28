@@ -16,21 +16,21 @@
         "policies": [
             {
                 "name": "State...",
-                "uniques": ["Comment [Nothing...]"
+                "uniques": ["Comment [Nothing...]","Provides a [Proof of choice] in your first [1] cities for free"
                 ],
                 "row": 1,
                 "column": 1
             },
             {
                 "name": "Empire",
-                "uniques": ["[+50]% Production when constructing [Military] units [in this city]","[-50]% Production when constructing [Settler] units [in thys city]","[+5 Gold, +2 Culture, +1 Science, +1 Faith, +1 Food, +1 Production] from all [Courthouse] buildings"
+                "uniques": ["[+50]% Production when constructing [Military] units [in this city]","[-50]% Production when constructing [Settler] units [in thys city]","[+5 Gold, +2 Culture, +1 Science, +1 Faith, +1 Food, +1 Production] from all [Courthouse] buildings","Provides a [Proof of choice] in your first [1] cities for free"
                 ],
                 "row": 2,
                 "column": 1
             },
             {
                 "name": "Colonial Empire",
-                "uniques": ["[+50]% Production when constructing [Settler] units [in thys city]","Provides a [colonial city] in your first [100] cities for free <if [non-colonial city] is not constructed> <every [1] turns>"
+                "uniques": ["[+50]% Production when constructing [Settler] units [in thys city]","Provides a [colonial city] in your first [100] cities for free <if [non-colonial city] is not constructed> <every [1] turns>","Provides a [Proof of choice] in your first [1] cities for free"
                 ],
                 "row": 3,
                 "column": 1

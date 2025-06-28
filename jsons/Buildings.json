@@ -3,16 +3,15 @@
 		"name": "colonial city",
 		"cost": 480,
 		"maintenance": 96,
- 	"uniques": ["Unbuildable","Unsellable"],
+ 	"uniques": ["Unbuildable","Unsellable","[100]% [Gold] [in this city]","[50]% [Production] [in this city]","[-50]% [Culture] [in this city]","[-25]% [Science] [in this city]","[-10]% [Faith] [in this city]","[-10]% Unhappiness from [Population] [in this city]"],
 	},
 	{
 		"name": "non-colonial city",
 		"cost": 80,
-		"hurryCostModifier": 10,
-	 "maintenance": 2,
+	 "maintenance": 1,
 		"happiness": 2,
  	"requiredBuilding": "colonial city",
-		"uniques": ["Remove [colonial city] [in this city]","Cost increases by [20] per owned city"],
+		"uniques": ["Remove [colonial city] [in this city]","Cost increases by [18] per owned city"],
 	}
 {
 		"name": "Proof of choice",

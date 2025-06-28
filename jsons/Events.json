@@ -21,7 +21,7 @@
     {
         "name": "New way?",
         "text": "Your state is in crisis, the population is unhappy and wants change!",
-        "uniques": ["Only available <after adopting [State...]> <when below [0] Happiness>","Unavailable <after adopting [Empire]>","Unavailable <after adopting [Colonial Empire]>"]
+        "uniques": ["Only available <after adopting [State...]> <when below [0] Happiness>","Unavailable <after adopting [Empire]>","Unavailable <after adopting [Colonial Empire]>","Only available <after turn number [20]>"]
         "choices": [
             {
                 "text": "Becoming a empire",

@@ -2,7 +2,7 @@
     {
         "name": "What are you?",
         "text": "You have founded a city; here begins your nation's new ambitions. What do you want to become in the future?",
-        "uniques": ["Only available <before turn number [2]>"]
+        "uniques": ["Only available <before turn number [50]>"]
         "choices": [
             {
                 "text": "Becoming a empire",

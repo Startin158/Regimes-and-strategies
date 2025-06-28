@@ -31,4 +31,29 @@
 		"cost": 1,
 		"uniques": ["Indicates the capital city","Provides [1] [Army] <in [all cities] cities>","Provides [1] [Army] <in cities with at least [11] [Population]>","Provides [1] [Army] <in cities with at least [21] [Population]>","Provides [1] [Army] <in cities with at least [31] [Population]>","Provides [2] [Army] <in cities with at least [41] [Population]>"]
 	},
+{
+		"name": "Barracks",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured","Provides [1] [Army]"],
+		"requiredTech": "Bronze Working"
+	},
+	{
+		"name": "Krepost",
+		"replaces": "Barracks",
+		"uniqueTo": "Russia",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["[-25]% Culture cost of natural border growth [in this city]","[-25]% Gold cost of acquiring tiles [in this city]",
+			"New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured","Provides [1] [Army]"],
+		"requiredTech": "Bronze Working"
+	},
+{
+		"name": "Heroic Epic",
+		"cost": 125,
+		"culture": 1,
+		"isNationalWonder": true,
+		"uniques": ["Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>", "All newly-trained [non-[Air]] units [in this city] receive the [Morale] promotion","Cost increases by [30] per owned city","Provides [5] [Army]"],
+		"requiredTech": "Iron Working"
+	},
 ]

@@ -3,14 +3,14 @@
 		"name": "colonial city",
 		"cost": 480,
 		"maintenance": 96,
+ 	"uniques": ["Unbuildable","Unsellable"],
 	},
 	{
 		"name": "non-colonial city",
 		"cost": 80,
-		"hurryCostModifier": 160,
+		"hurryCostModifier": 80,
 		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"uniques": ["Remove [colonial city] [in this city]"],
 	}
 {
 		"name": "Proof of choice",

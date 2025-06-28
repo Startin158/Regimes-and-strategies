@@ -34,5 +34,11 @@
                 ],
                 "row": 3,
                 "column": 1
+            },
+            {
+                "name": "Form of state Complete",
+                "uniques": ["Comment [You can't complete this...]"]
             }
+        ]
+    }
 ]

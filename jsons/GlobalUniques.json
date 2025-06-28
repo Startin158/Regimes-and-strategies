@@ -3,7 +3,7 @@
     "uniques": [
 "Triggers a [What are you?] event <upon founding a city> <with [100]% chance> <if [Proof of choice] is not constructed>",
 "Triggers a [New way?] event <every [1] turns> <with [10]% chance>",
-"Provides [1] [Army] <in [all cities] citoes>",
+"Provides [1] [Army] <in [all cities] cities>",
 "Provides [1] [Army] <in cities with at least [6] [Population]>",
 "Provides [1] [Army] <in cities with at least [11] [Population]>",
 "Provides [1] [Army] <in cities with at least [16] [Population]>",

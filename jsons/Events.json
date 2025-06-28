@@ -15,13 +15,15 @@
                 "text": "Becoming a simple state",
                 "uniques": ["Adopt [State...]","Comment [A state is... just a state, no advantages, no disadvantages]"],
             },
+      ]
+  },
 
 
 
     {
         "name": "New way?",
         "text": "Your state is in crisis, the population is unhappy and wants change!",
-        "uniques": ["Only available <after adopting [State...]> <when below [0] Happiness>","Unavailable <after adopting [Empire]>","Unavailable <after adopting [Colonial Empire]>","Only available <after turn number [20]>"]
+        "uniques": ["Only available <after adopting [State...]> <when below [0] Happiness> <after turn number [20]>","Unavailable <after adopting [Empire]> <after adopting [Colonial Empire]>"]
         "choices": [
             {
                 "text": "Becoming a empire",

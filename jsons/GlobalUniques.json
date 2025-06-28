@@ -9,6 +9,6 @@
         "Rebel units may spawn <when below [-20] [Happiness]>",
         "[-1] Sight <for [Embarked] units>",
 "Triggers a [What are you?] event <upon founding a city> <with [100]% chance> <if [Proof of choice] is not constructed>",
-"Triggers a [New way?] event <upon founding a city> <with [100]% chance> <if [Proof of choice] is not constructed>"
+"Triggers a [New way?] event <every [1] turns> <with [10]% chance>"
 ]
 }

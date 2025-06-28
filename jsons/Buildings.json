@@ -56,4 +56,20 @@
 		"uniques": ["Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>", "All newly-trained [non-[Air]] units [in this city] receive the [Morale] promotion","Cost increases by [30] per owned city","Provides [5] [Army]"],
 		"requiredTech": "Iron Working"
 	},
+{
+		"name": "Armory",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredBuilding": "Barracks",
+		"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured","Provides [1] [Army]"],
+		"requiredTech": "Steel"
+	},
+{
+		"name": "Military Academy",
+		"hurryCostModifier": 0,
+		"maintenance": 1,
+		"requiredBuilding": "Armory",
+		"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured","Provides [1] [Army]"],
+		"requiredTech": "Military Science"
+	},
 ]

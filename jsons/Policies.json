@@ -80,7 +80,7 @@
         ]
     }
 {
-        "name": "Democracy",
+        "name": "Democracy.",
         "era": "Ancient era",
         "priorities": {
             "Neutral": 5,
@@ -112,7 +112,7 @@
                 "column": 1
             },
             {
-                "name": "Democracy Complete",
+                "name": "Democracy. Complete",
                 "uniques": ["Comment []"]
             }
         ]
@@ -156,7 +156,7 @@
         ]
     }
 {
-        "name": "Secular state.",
+        "name": "Secular state .",
         "era": "Ancient era",
         "priorities": {
             "Neutral": 5,
@@ -188,7 +188,7 @@
                 "column": 1
             },
             {
-                "name": "Secular. state Complete",
+                "name": "Secular . state Complete",
                 "uniques": ["Comment []"]
             }
         ]

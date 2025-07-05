@@ -9,6 +9,7 @@
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
 		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
+  "requiredResource": "Army",
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "This is your basic, club-swinging fighter."}
@@ -26,6 +27,7 @@
 		"promotions": ["Haka War Dance"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
+  "requiredResource": "Army",
 	},
 	{
 		"name": "Jaguar",
@@ -39,6 +41,7 @@
 		"promotions": ["[Jaguar] ability","Woodsman"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
+  "requiredResource": "Army",
 	},
 	{
 		"name": "Brute",
@@ -51,6 +54,7 @@
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
+  "requiredResource": "Army",
 	},
 	{
 		"name": "Archer",
@@ -63,6 +67,7 @@
 		"obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
 		"attackSound": "arrow"
+  "requiredResource": "Army",
 	},
 	{
 		"name": "Bowman",
@@ -77,6 +82,7 @@
 		"uniqueTo": "Babylon",
 		"upgradesTo": "Composite Bowman",
 		"attackSound": "arrow"
+  "requiredResource": "Army",
 	},
 	{
 		"name": "Slinger",
@@ -92,6 +98,7 @@
 		"upgradesTo": "Composite Bowman",
 		"promotions": ["Slinger Withdraw"],
 		"attackSound": "arrow"
+  "requiredResource": "Army",
 	},
 	{
 		"name": "Atlatlist",
@@ -106,6 +113,7 @@
 		"uniqueTo": "The Maya",
 		"upgradesTo": "Composite Bowman",
 		"attackSound": "arrow"
+  "requiredResource": "Army",
 	},
 	{
 		"name": "Skirmisher",
@@ -120,6 +128,7 @@
 		"obsoleteTech": "Machinery",
 		"upgradesTo": "Crossbowman",
 		"attackSound": "arrow"
+  "requiredResource": "Army",
 	},
 {
 		"name": "Trireme",
@@ -132,6 +141,7 @@
 		"upgradesTo": "Caravel",
 		"obsoleteTech": "Astronomy",
 		"attackSound": "nonmetalhit"
+  "requiredResource": "Army",
 	},
 	{
 		"name": "Quinquereme",
@@ -146,6 +156,7 @@
 		"upgradesTo": "Caravel",
 		"obsoleteTech": "Astronomy",
 		"attackSound": "nonmetalhit"
+  "requiredResource": "Army",
 	},
 	{
 		"name": "Dromon",
@@ -161,6 +172,7 @@
 		"upgradesTo": "Galleass",
 		"obsoleteTech": "Astronomy",
 		"attackSound": "arrow"
+  "requiredResource": "Army",
 	},
 	{
 		"name": "Galley",
@@ -174,6 +186,7 @@
 		"obsoleteTech": "Astronomy",
 		"attackSound": "nonmetalhit"
 		//Barbarian unique naval unit, weaker and slower than Trireme.
+  "requiredResource": "Army",
 	},
 	{
 		"name": "Chariot Archer",
@@ -188,6 +201,7 @@
 		"obsoleteTech": "Chivalry",
 		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "Never appears as a Barbarian unit"],
 		"attackSound": "arrow"
+  "requiredResource": "Army",
 	},
 	{
 		"name": "War Chariot",
@@ -203,6 +217,7 @@
 		"obsoleteTech": "Chivalry",
 		"uniques": ["No defensive terrain bonus", "Rough terrain penalty"],
 		"attackSound": "arrow"
+  "requiredResource": "Army",
 	},
 	{
 		"name": "Horse Archer",
@@ -219,6 +234,7 @@
 		"uniques": ["No defensive terrain bonus"],
 		"promotions": ["Accuracy I"],
 		"attackSound": "arrow"
+  "requiredResource": "Army",
 	},
 	{
 		"name": "War Elephant",
@@ -234,6 +250,7 @@
 		"obsoleteTech": "Chivalry",
 		"uniques": ["No defensive terrain bonus"],
 		"attackSound": "elephant"
+  "requiredResource": "Army",
 	},
 {
 		"name": "Spearman",
@@ -246,6 +263,7 @@
 		"upgradesTo": "Pikeman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
+  "requiredResource": "Army",
 	},
 	{
 		"name": "Hoplite",
@@ -260,6 +278,7 @@
 		"upgradesTo": "Pikeman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
+  "requiredResource": "Army",
 	},
 	{
 		"name": "Persian Immortal",
@@ -275,6 +294,7 @@
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"promotions":["[Persian Immortal] ability"],
 		"attackSound": "metalhit"
+  "requiredResource": "Army",
 	},
 	{
 		"name": "Battering Ram",
@@ -291,6 +311,7 @@
 		"[-1] Sight", "Can only attack [City] units"],
 		"promotions":  ["Cover I"],
 		"attackSound": "throw"
+  "requiredResource": "Army",
 	},
 	{
 		"name": "Pictish Warrior",
@@ -306,7 +327,8 @@
 		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
 		"promotions": ["Pictish Courage"],
 		"attackSound": "metalhit"
-	},
+	  "requiredResource": "Army",
+},
 	{
 		"name": "Marauder",
 		"unitType": "Sword",
@@ -320,6 +342,7 @@
 		"upgradesTo": "Pikeman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
+  "requiredResource": "Army",
 	},
 
 	/* Classical Era */

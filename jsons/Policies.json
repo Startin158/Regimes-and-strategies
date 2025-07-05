@@ -51,7 +51,7 @@
             "Domination": 8,
             "Scientific": 4
         },
-        "uniques": ["Adopt [concentration of powers]","Only available <before adopting []>"],
+        "uniques": ["Adopt [concentration of powers]","Only available <before adopting [Democracy]>"],
         "policies": [
             {
                 "name": "concentration of powers",
@@ -80,7 +80,7 @@
         ]
     }
 {
-        "name": "",
+        "name": "Democracy",
         "era": "Ancient era",
         "priorities": {
             "Neutral": 5,
@@ -89,36 +89,36 @@
             "Domination": 8,
             "Scientific": 4
         },
-        "uniques": ["Adopt []","Only available <before adopting []>"],
+        "uniques": ["Adopt [power to the people]","Only available <before adopting [Dictature]>"],
         "policies": [
             {
-                "name": "",
+                "name": "power to the people",
                 "uniques": [],
                 "row": 1,
                 "column": 1
             },
             {
-                "name": "",
-                "requires": [""],
+                "name": "popular defense",
+                "requires": ["power to the people"],
                 "uniques": [],
                 "row": 2,
                 "column": 1
             },
             {
-                "name": "",
-                "requires": [""],
+                "name": "democratic culture",
+                "requires": ["popular defense"],
                 "uniques": [],
                 "row": 3,
                 "column": 1
             },
             {
-                "name": " Complete",
+                "name": "Democracy Complete",
                 "uniques": ["Comment []"]
             }
         ]
     }
 {
-        "name": "",
+        "name": "Theocracy",
         "era": "Ancient era",
         "priorities": {
             "Neutral": 5,
@@ -127,36 +127,36 @@
             "Domination": 8,
             "Scientific": 4
         },
-        "uniques": ["Adopt []","Only available <before adopting []>"],
+        "uniques": ["Adopt [believing society]","Only available <before adopting [Secular state]>"],
         "policies": [
             {
-                "name": "",
+                "name": "believing society",
                 "uniques": [],
                 "row": 1,
                 "column": 1
             },
             {
-                "name": "",
-                "requires": [""],
+                "name": "religious population",
+                "requires": ["believing society"],
                 "uniques": [],
                 "row": 2,
                 "column": 1
             },
             {
-                "name": "",
-                "requires": [""],
+                "name": "strong religion",
+                "requires": ["religious population"],
                 "uniques": [],
                 "row": 3,
                 "column": 1
             },
             {
-                "name": " Complete",
+                "name": "Theocracy Complete",
                 "uniques": ["Comment []"]
             }
         ]
     }
 {
-        "name": "",
+        "name": "Secular state",
         "era": "Ancient era",
         "priorities": {
             "Neutral": 5,
@@ -165,30 +165,30 @@
             "Domination": 8,
             "Scientific": 4
         },
-        "uniques": ["Adopt []","Only available <before adopting []>"],
+        "uniques": ["Adopt []","Only available <before adopting [Theocracy]>"],
         "policies": [
             {
-                "name": "",
+                "name": "learned society",
                 "uniques": [],
                 "row": 1,
                 "column": 1
             },
             {
-                "name": "",
-                "requires": [""],
+                "name": "scientific population",
+                "requires": ["learned society"],
                 "uniques": [],
                 "row": 2,
                 "column": 1
             },
             {
-                "name": "",
-                "requires": [""],
+                "name": "innovative states",
+                "requires": ["scientific population"],
                 "uniques": [],
                 "row": 3,
                 "column": 1
             },
             {
-                "name": " Complete",
+                "name": "Secular state Complete",
                 "uniques": ["Comment []"]
             }
         ]

@@ -145,7 +145,7 @@
             {
                 "name": "strong religion",
                 "requires": ["religious population"],
-                "uniques": [],
+                "uniques": ["Gain a free [Any] belief"],
                 "row": 3,
                 "column": 1
             },
@@ -183,7 +183,7 @@
             {
                 "name": "innovative states",
                 "requires": ["scientific population"],
-                "uniques": [],
+                "uniques": [[2] Free Technologies],
                 "row": 3,
                 "column": 1
             },

@@ -11,7 +11,7 @@
             "Scientific": 4
         },
         "uniques": [
-            "[-100]% weight to this choice for AI decisions","Only available <before turn number [1]>"
+            "[-100]% weight to this choice for AI decisions","Only available <before turn number [0]>"
         ],
         "policies": [
             {
@@ -38,6 +38,44 @@
             {
                 "name": "Form of state Complete",
                 "uniques": ["Comment [You can't complete this...]"]
+            }
+        ]
+    }
+{
+        "name": "Dictature",
+        "era": "Ancient era",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 5,
+            "Diplomatic": 1,
+            "Domination": 8,
+            "Scientific": 4
+        },
+        "uniques": [
+            ""
+        ],
+        "policies": [
+            {
+                "name": "concentration of powers",
+                "uniques": [],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "elimination of opponents",
+                "uniques": [],
+                "row": 2,
+                "column": 1
+            },
+            {
+                "name": "cult of personality",
+                "uniques": [],
+                "row": 3,
+                "column": 1
+            },
+            {
+                "name": "Dictature Complete",
+                "uniques": ["Comment [You have all the power, no one opposes you, and those who do get executed.]"]
             }
         ]
     }

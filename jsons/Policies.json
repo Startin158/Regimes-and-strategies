@@ -183,7 +183,7 @@
             {
                 "name": "innovative states",
                 "requires": ["scientific population"],
-                "uniques": [[2] Free Technologies],
+                "uniques": ["[2] Free Technologies"],
                 "row": 3,
                 "column": 1
             },

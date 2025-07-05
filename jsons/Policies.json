@@ -51,7 +51,7 @@
             "Domination": 8,
             "Scientific": 4
         },
-        "uniques": ["Adopt [concentration of powers]","Only available <before adopting []>",],
+        "uniques": ["Adopt [concentration of powers]","Only available <before adopting []>"],
         "policies": [
             {
                 "name": "concentration of powers",

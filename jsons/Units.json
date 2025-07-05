@@ -363,7 +363,7 @@
 		"strength": 12,
 		"cost": 75,
 		"requiredTech": "Horseback Riding",
-		"requiredResource": ["Horses","Army"],
+		"requiredResource": "Horses","Army",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],

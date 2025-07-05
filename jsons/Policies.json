@@ -176,7 +176,7 @@
             {
                 "name": "scientific population",
                 "requires": ["learned society"],
-                "uniques": [[+1 Science] per [4] population [in all cities]],
+                "uniques": ["[+1 Science] per [4] population [in all cities]"],
                 "row": 2,
                 "column": 1
             },

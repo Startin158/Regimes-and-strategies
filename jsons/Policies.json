@@ -127,7 +127,7 @@
             "Domination": 6,
             "Scientific": 1
         },
-        "uniques": ["Adopt [believing society]","Only available <before adopting [Secular state.]>"],
+        "uniques": ["Adopt [believing society]","Only available <before adopting [Secular state]>"],
         "policies": [
             {
                 "name": "believing society",

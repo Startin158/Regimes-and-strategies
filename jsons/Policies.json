@@ -61,12 +61,14 @@
             },
             {
                 "name": "elimination of opponents",
+                "requires": [""],
                 "uniques": [],
                 "row": 2,
                 "column": 1
             },
             {
                 "name": "cult of personality",
+                "requires": [""],
                 "uniques": [],
                 "row": 3,
                 "column": 1

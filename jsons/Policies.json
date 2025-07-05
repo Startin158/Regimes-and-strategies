@@ -138,7 +138,7 @@
             {
                 "name": "religious population",
                 "requires": ["believing society"],
-                "uniques": [[+1 Faith] per [3] population [in all cities]],
+                "uniques": ["[+1 Faith] per [3] population [in all cities]"],
                 "row": 2,
                 "column": 1
             },

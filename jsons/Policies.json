@@ -79,4 +79,346 @@
             }
         ]
     }
+{
+        "name": "",
+        "era": "Ancient era",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 5,
+            "Diplomatic": 1,
+            "Domination": 8,
+            "Scientific": 4
+        },
+        "uniques": ["Adopt []","Only available <before adopting []>"],
+        "policies": [
+            {
+                "name": "",
+                "uniques": [],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "",
+                "requires": [""],
+                "uniques": [],
+                "row": 2,
+                "column": 1
+            },
+            {
+                "name": "",
+                "requires": [""],
+                "uniques": [],
+                "row": 3,
+                "column": 1
+            },
+            {
+                "name": " Complete",
+                "uniques": ["Comment []"]
+            }
+        ]
+    }
+{
+        "name": "",
+        "era": "Ancient era",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 5,
+            "Diplomatic": 1,
+            "Domination": 8,
+            "Scientific": 4
+        },
+        "uniques": ["Adopt []","Only available <before adopting []>"],
+        "policies": [
+            {
+                "name": "",
+                "uniques": [],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "",
+                "requires": [""],
+                "uniques": [],
+                "row": 2,
+                "column": 1
+            },
+            {
+                "name": "",
+                "requires": [""],
+                "uniques": [],
+                "row": 3,
+                "column": 1
+            },
+            {
+                "name": " Complete",
+                "uniques": ["Comment []"]
+            }
+        ]
+    }
+{
+        "name": "",
+        "era": "Ancient era",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 5,
+            "Diplomatic": 1,
+            "Domination": 8,
+            "Scientific": 4
+        },
+        "uniques": ["Adopt []","Only available <before adopting []>"],
+        "policies": [
+            {
+                "name": "",
+                "uniques": [],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "",
+                "requires": [""],
+                "uniques": [],
+                "row": 2,
+                "column": 1
+            },
+            {
+                "name": "",
+                "requires": [""],
+                "uniques": [],
+                "row": 3,
+                "column": 1
+            },
+            {
+                "name": " Complete",
+                "uniques": ["Comment []"]
+            }
+        ]
+    }
+{
+        "name": "",
+        "era": "Ancient era",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 5,
+            "Diplomatic": 1,
+            "Domination": 8,
+            "Scientific": 4
+        },
+        "uniques": ["Adopt []","Only available <before adopting []>"],
+        "policies": [
+            {
+                "name": "",
+                "uniques": [],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "",
+                "requires": [""],
+                "uniques": [],
+                "row": 2,
+                "column": 1
+            },
+            {
+                "name": "",
+                "requires": [""],
+                "uniques": [],
+                "row": 3,
+                "column": 1
+            },
+            {
+                "name": " Complete",
+                "uniques": ["Comment []"]
+            }
+        ]
+    }
+{
+        "name": "",
+        "era": "Ancient era",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 5,
+            "Diplomatic": 1,
+            "Domination": 8,
+            "Scientific": 4
+        },
+        "uniques": ["Adopt []","Only available <before adopting []>"],
+        "policies": [
+            {
+                "name": "",
+                "uniques": [],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "",
+                "requires": [""],
+                "uniques": [],
+                "row": 2,
+                "column": 1
+            },
+            {
+                "name": "",
+                "requires": [""],
+                "uniques": [],
+                "row": 3,
+                "column": 1
+            },
+            {
+                "name": " Complete",
+                "uniques": ["Comment []"]
+            }
+        ]
+    }
+{
+        "name": "",
+        "era": "Ancient era",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 5,
+            "Diplomatic": 1,
+            "Domination": 8,
+            "Scientific": 4
+        },
+        "uniques": ["Adopt []","Only available <before adopting []>"],
+        "policies": [
+            {
+                "name": "",
+                "uniques": [],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "",
+                "requires": [""],
+                "uniques": [],
+                "row": 2,
+                "column": 1
+            },
+            {
+                "name": "",
+                "requires": [""],
+                "uniques": [],
+                "row": 3,
+                "column": 1
+            },
+            {
+                "name": " Complete",
+                "uniques": ["Comment []"]
+            }
+        ]
+    }
+{
+        "name": "",
+        "era": "Ancient era",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 5,
+            "Diplomatic": 1,
+            "Domination": 8,
+            "Scientific": 4
+        },
+        "uniques": ["Adopt []","Only available <before adopting []>"],
+        "policies": [
+            {
+                "name": "",
+                "uniques": [],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "",
+                "requires": [""],
+                "uniques": [],
+                "row": 2,
+                "column": 1
+            },
+            {
+                "name": "",
+                "requires": [""],
+                "uniques": [],
+                "row": 3,
+                "column": 1
+            },
+            {
+                "name": " Complete",
+                "uniques": ["Comment []"]
+            }
+        ]
+    }
+{
+        "name": "",
+        "era": "Ancient era",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 5,
+            "Diplomatic": 1,
+            "Domination": 8,
+            "Scientific": 4
+        },
+        "uniques": ["Adopt []","Only available <before adopting []>"],
+        "policies": [
+            {
+                "name": "",
+                "uniques": [],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "",
+                "requires": [""],
+                "uniques": [],
+                "row": 2,
+                "column": 1
+            },
+            {
+                "name": "",
+                "requires": [""],
+                "uniques": [],
+                "row": 3,
+                "column": 1
+            },
+            {
+                "name": " Complete",
+                "uniques": ["Comment []"]
+            }
+        ]
+    }
+{
+        "name": "",
+        "era": "Ancient era",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 5,
+            "Diplomatic": 1,
+            "Domination": 8,
+            "Scientific": 4
+        },
+        "uniques": ["Adopt []","Only available <before adopting []>"],
+        "policies": [
+            {
+                "name": "",
+                "uniques": [],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "",
+                "requires": [""],
+                "uniques": [],
+                "row": 2,
+                "column": 1
+            },
+            {
+                "name": "",
+                "requires": [""],
+                "uniques": [],
+                "row": 3,
+                "column": 1
+            },
+            {
+                "name": " Complete",
+                "uniques": ["Comment []"]
+            }
+        ]
+    }
 ]

@@ -3,4 +3,8 @@
                 "name": "Army",
                 "resourceType": "Strategic",
 },
+{
+                "name": "Tourisme",
+                "resourceType": "Strategic",
+},
 ]

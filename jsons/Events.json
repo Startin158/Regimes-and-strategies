@@ -67,7 +67,7 @@
 {
         "name": "Génie?",
         "text": "Your advisors and the public are concerned that we have so few geniuses in our state while other nations have more... should something be done to attract or create geniuses?",
-        "uniques": [""Only available <when above [500] [Gold]>]
+        "uniques": ["Only available <when above [500] [Gold]>"]
         "choices": [
             {
                 "text": "Invest in bulk! How can others have more genius?!",

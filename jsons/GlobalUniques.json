@@ -1,7 +1,9 @@
 {
     "name": "Global uniques",
     "uniques": [
-"Triggers a [What are you?] event <upon founding a city> <with [100]% chance> <if [Proof of choice] is not constructed>","Triggers a [New way?] event <upon turn start> <with [10]% chance>"
+"Triggers a [What are you?] event <upon founding a city> <with [100]% chance> <if [Proof of choice] is not constructed>",
+"Triggers a [New way?] event <upon turn start> <with [20]% chance>",
+"Triggers a [New way?] event <upon turn start> <with [3]% chance>"
 
 "[+1 Gold] from all [Culture] buildings <when above [25] [Tourism]>",
 "[+1 Gold] from all [Culture] buildings <when above [50] [Tourism]>",

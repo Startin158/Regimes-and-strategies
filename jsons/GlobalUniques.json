@@ -2,6 +2,6 @@
     "name": "Global uniques",
     "uniques": [
 "Triggers a [What are you?] event <upon founding a city> <with [100]% chance> <if [Proof of choice] is not constructed>",
-"Triggers a [New way?] event <every [1] turns> <with [10]% chance>","Provides [1] [Tourism] <in [in all cities] cities>","Provides [1] [Army] <in [in all cities] cities>"
+"Triggers a [New way?] event <every [1] turns> <with [10]% chance>","Provides [1] [Tourism] <in [in all cities] cities>","Provides [1] [Army] <in [in all cities] cities>","Provides [1] [Army] <in cities with at least [10] [Population]>","Provides [1] [Army] <in cities with at least [25] [Population]>","Provides [2] [Army] <in cities with at least [40] [Population]>"
 ]
 }

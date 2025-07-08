@@ -1,0 +1,50 @@
+[
+{
+		"name": "Academy",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"science": 8,
+		"uniques": ["Great Improvement", "[+2 Science] <after discovering [Scientific Theory]>",
+            "[+2 Science] <after discovering [Atomic Theory]>", "Removes removable features when built",
+            "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+20 Gold]"]
+	},
+	{
+		"name": "Landmark",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"culture": 6,
+		"uniques": ["Great Improvement", "Removes removable features when built",
+            "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+20 Gold]"]
+	},
+	{
+		"name": "Manufactory",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"production": 4,
+		"uniques": ["Great Improvement", "[+1 Production] <after discovering [Chemistry]>", "Will not be replaced by automated units",
+            "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
+	},
+	{
+		"name": "Customs house",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"gold": 4,
+		"uniques": ["Great Improvement", "[+1 Gold] <after discovering [Economics]>", "Removes removable features when built",
+            "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+20 Gold]"]
+	},
+	{
+		"name": "Holy site",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"faith": 6,
+		"uniques": ["Great Improvement", "Removes removable features when built", "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+20 Gold]"]
+	},
+	{
+		"name": "Citadel",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": [
+			"Great Improvement",
+			"Gives a defensive bonus of [100]%",
+			"Adjacent enemy units ending their turn take [30] damage",
+			"Can be built just outside your borders",
+			"Gain control over [all] tiles in a [1]-tile radius",
+			"Removes removable features when built",
+            "Will not be replaced by automated units"
+		]
+	},
+]

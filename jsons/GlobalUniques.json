@@ -2,6 +2,6 @@
     "name": "Global uniques",
     "uniques": [
 "Triggers a [What are you?] event <upon founding a city> <with [100]% chance> <if [Proof of choice] is not constructed>",
-"Triggers a [New way?] event <every [1] turns> <with [10]% chance>",
+"Triggers a [New way?] event <every [1] turns> <with [10]% chance>","Provides [1] [Tourism] <in [in all cities] cities>","Provides [1] [Army] <in [in all cities] cities>"
 ]
 }

@@ -49,19 +49,18 @@
     {
         "name": "Petite fête?",
         "text": "Foreign tourists are amused by an exotic festival that one of your cities organizes every year; it would be very easy to take advantage of this festival for the benefit of the nation... Perhaps you could take advantage of it?",
-        "uniques": [""]
         "choices": [
             {
-                "text": "Take control of the party for the tourists! At the expense of the population...",
-                "uniques": [""],
+                "text": "Take control of the festival for the tourists! At the expense of the population...",
+                "uniques": ["Gain [-500]-[1150] [Gold]","Gain [-15]-[10] [Happiness]","Free [Great Artist] appears"],
             },
             {
                 "text": "Advertise to attract tourists!",
-                "uniques": [""],
+                "uniques": ["Gain [-50]-[450] [Gold]","Gain [-10]-[10] [Happiness]"],
             },
             {
                 "text": "Do nothing",
-                "uniques":["Comment [The villagers will do what they want, maybe it will be beneficial]",""],
+                "uniques":["Comment [The villagers will do what they want, maybe it will be beneficial]","Gain [0]-[100] [Culture]","Gain [0]-[200] [Gold]","Gain [0]-[10] [Happiness]"],
             },
          ]
     },

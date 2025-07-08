@@ -1,9 +1,13 @@
 [
 
         {
-                "name": "Agressif",
+                "name": "Child of the dictator",
                 "uniques": ["[This Unit] heals [1] HP", "Doing so will consume this opportunity to choose a Promotion"],
-        "row": 100,
-        "column": 100
     }
+[
+
+        {
+                "name": "Great ambition",
+                "uniques": ["[This Unit] heals [1] HP", "Doing so will consume this opportunity to choose a Promotion"],
+    },
 ]

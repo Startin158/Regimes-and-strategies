@@ -8,6 +8,6 @@
 
         {
                 "name": "Great ambition",
-                "uniques": ["","","[20]% Strength <when defending>"],
+                "uniques": ["All healing effects doubled <when at war>","Heals [10] damage if it kills a unit","May heal outside of friendly territory"],
     },
 ]

@@ -20,10 +20,36 @@
 
 
 
+
+
     {
         "name": "New way?",
         "text": "Your state is in crisis, the population is unhappy and wants change!",
-        "uniques": ["Only available <after adopting [State...]> <when below [0] Happiness> <after turn number [20]>","Unavailable <after adopting [Empire]> <after adopting [Colonial Empire]>"]
+        "uniques": ["Only available <after adopting [State...]> <when below [0] Happiness> <after turn number [20]>","Unavailable <after adopting [Empire]>","Unavailable <after adopting [Colonial Empire]>"]
+        "choices": [
+            {
+                "text": "Becoming a empire",
+                "uniques": ["Adopt [Empire]","Empire enters a [15]-turn Golden Age","Comment [Change and become an empire. For the happiness of your people.]"],
+            },
+            {
+                "text": "Becoming a colonial empire",
+                "uniques": ["Adopt [Colonial Empire]","Empire enters a [15]-turn Golden Age","Comment [Change and become a colonial empire. For the happiness of your people.]"],
+            },
+            {
+                "text": "Don't change",
+                "uniques": ["Comment [Remain a state]"],
+            },
+         ]
+    },
+
+
+
+
+
+    {
+        "name": "Petite fête?",
+        "text": "Your state is in crisis, the population is unhappy and wants change!",
+        "uniques": [""]
         "choices": [
             {
                 "text": "Becoming a empire",

@@ -7,6 +7,6 @@
 {
                 "name": "Tourism",
                 "resourceType": "Strategic",
-	               "uniques": ["Comment [Tourism increases the efficiency of certain buildings. Tourism is obtained through wonders.]","Culture buildings receive a bonus of +1 gold when tourism is above 25, +2 gold when +50 tourism, +3 gold when 100 tourism, +3 gold and +1 culture when +200 tourism","Faith buildings receive a bonus of +1 gold when tourism is above 25, +1 faith when +50 tourism, +2 gold and +2 faith when 100 tourism,","Science buildings receive a bonus of +1 gold when tourism is above 50, +2 gold when +100 tourism, +2 gold and +1 culture when 200 tourism,","Cannot be traded"]
+	               "uniques": ["Comment [Tourism increases the efficiency of certain buildings. Tourism is obtained through wonders.]","Comment [Culture buildings receive a bonus of +1 gold when tourism is above 25, +2 gold when +50 tourism, +3 gold when 100 tourism, +3 gold and +1 culture when +200 tourism]","Comment [Faith buildings receive a bonus of +1 gold when tourism is above 25, +1 faith when +50 tourism, +2 gold and +2 faith when 100 tourism]","Comment [Science buildings receive a bonus of +1 gold when tourism is above 50, +2 gold when +100 tourism, +2 gold and +1 culture when 200 tourism]","Cannot be traded"]
 },
 ]

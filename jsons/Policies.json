@@ -55,7 +55,7 @@
         "policies": [
             {
                 "name": "concentration of powers",
-                "uniques": ["[-1 Happiness] per [3] population [in all cities]"],
+                "uniques": ["[-1 Happiness] per [3] population [in all cities]","[+2 Gold] per [3] population [in all cities]"],
                 "row": 1,
                 "column": 1
             },

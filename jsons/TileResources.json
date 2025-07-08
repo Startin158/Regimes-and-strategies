@@ -7,6 +7,6 @@
 {
                 "name": "Tourism",
                 "resourceType": "Strategic",
-	               "uniques": ["Comment [comment]","Cannot be traded"]
+	               "uniques": ["Comment [Tourism increases the efficiency of certain buildings. Tourism is obtained through wonders.]","","","","Cannot be traded"]
 },
 ]

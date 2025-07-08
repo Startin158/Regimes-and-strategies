@@ -48,20 +48,20 @@
 
     {
         "name": "Petite fête?",
-        "text": "Your state is in crisis, the population is unhappy and wants change!",
+        "text": "Foreign tourists are amused by an exotic festival that one of your cities organizes every year; it would be very easy to take advantage of this festival for the benefit of the nation... Perhaps you could take advantage of it?",
         "uniques": [""]
         "choices": [
             {
-                "text": "Becoming a empire",
-                "uniques": ["Adopt [Empire]","Empire enters a [15]-turn Golden Age","Comment [Change and become an empire. For the happiness of your people.]"],
+                "text": "Take control of the party for the tourists! At the expense of the population...",
+                "uniques": [""],
             },
             {
-                "text": "Becoming a colonial empire",
-                "uniques": ["Adopt [Colonial Empire]","Empire enters a [15]-turn Golden Age","Comment [Change and become a colonial empire. For the happiness of your people.]"],
+                "text": "Advertise to attract tourists!",
+                "uniques": [""],
             },
             {
-                "text": "Don't change",
-                "uniques": ["Comment [Remain a state]"],
+                "text": "Do nothing",
+                "uniques":["Comment [The villagers will do what they want, maybe it will be beneficial]",""],
             },
          ]
     },

@@ -2,7 +2,7 @@
 {
                 "name": "Army",
                 "resourceType": "Strategic",
-	               "uniques": ["Comment [comment]","AI will buy at [50] Gold","AI will sell at [60] Gold"]
+	               "uniques": ["Comment [Without this resource, you cannot train a military unit. So be careful to build the right units.]","AI will buy at [50] Gold","AI will sell at [60] Gold"]
 },
 {
                 "name": "Tourism",

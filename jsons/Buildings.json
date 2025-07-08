@@ -81,4 +81,51 @@
 		"requiredTech": "Combined Arms",
 		"quote": "'In preparing for battle I have always found that plans are useless, but planning is indispensable.' - Dwight D. Eisenhower"
 	},
+{
+		"name": "Temple of Artemis",
+		"culture": 1,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Engineer": 1},
+        "uniques": ["[+10]% [Food] [in all cities]", "[+15]% Production when constructing [Archery] units [in this city]",
+            "[+15]% Production when constructing [Ranged Gunpowder] units [in this city]"],
+		"requiredTech": "Archery",
+		"quote": "'It is not so much for its beauty that the forest makes a claim upon men's hearts, as for that subtle something, that quality of air, that emanation from old trees, that so wonderfully changes and renews a weary spirit.' - Robert Louis Stevenson"
+	},
+{
+		"name": "Stonehenge",
+		"faith": 5,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Engineer": 1},
+		"requiredTech": "Calendar",
+		"quote": "'Time crumbles things; everything grows old and is forgotten under the power of time' - Aristotle"
+	},
+{
+		"name": "The Great Library",
+		"science": 3,
+		"culture": 1,
+		"greatPersonPoints": {"Great Scientist": 1},
+		"isWonder": true,
+		"requiredTech": "Writing",
+		"uniques": ["Free Technology", "Gain a free [Library] [in this city]"],
+		"quote": "'Libraries are as the shrine where all the relics of the ancient saints, full of true virtue, and all that without delusion or imposture are preserved and reposed.' - Sir Francis Bacon"
+	},
+{
+		"name": "The Pyramids",
+		"culture": 1,
+		"greatPersonPoints": {"Great Engineer": 1},
+		"isWonder": true,
+		"uniques": ["Can build [all] improvements at a [+25]% rate","[2] free [Worker] units appear"],
+		"requiredTech": "Masonry",
+		"quote": "'O, let not the pains of death which come upon thee enter into my body. I am the god Tem, and I am the foremost part of the sky, and the power which protecteth me is that which is with all the gods forever.' - The Book of the Dead, translated by Sir Ernest Alfred Wallis Budge"
+	},
+	{
+		"name": "Mausoleum of Halicarnassus",
+		"culture": 1,
+		"greatPersonPoints": {"Great Merchant": 1},
+		"isWonder": true,
+		"uniques": ["Gain [100] [Gold] <upon expending a [Great Person] unit> <(modified by game speed)>",
+			"[+2 Gold] from [Marble] tiles [in this city]", "[+2 Gold] from [Stone] tiles [in this city]"],
+		"requiredTech": "Masonry",
+		"quote": "'The whole earth is the tomb of heroic men and their story is not given only on stone over their clay but abides everywhere without visible symbol woven into the stuff of other men's lives.' - Pericles"
+	},
 ]

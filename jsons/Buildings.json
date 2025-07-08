@@ -29,7 +29,7 @@
 		"culture": 1,
 		"cityStrength": 3,
 		"cost": 1,
-		"uniques": ["Indicates the capital city","Provides [5] [Army]"]
+		"uniques": ["Indicates the capital city","Provides [5] [Army]","Provides [1] [Tourism] <in cities with at least [1] [Population]>","Provides [1] [Army] <in [in all cities] cities>","Provides [1] [Army] <in cities with at least [10] [Population]>","Provides [1] [Army] <in cities with at least [25] [Population]>","Provides [2] [Army] <in cities with at least [40] [Population]>",]
 	},
 {
 		"name": "Barracks",

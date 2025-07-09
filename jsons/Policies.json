@@ -207,21 +207,21 @@
         "policies": [
             {
                 "name": "Collectivization of industries",
-                "uniques": ["[+1 Production] from all [Production] buildings","[+1 Production] <in [Mine] tiles>","[+1 Production] <in [Oil well] tiles>","[+1 Production] <in [Offshore Platform] tiles>","[+1 Production] <in [Quarry] tiles>","[+2 Production] <in [Manufactory] tiles>","[+1 Production] <in [Lumber mill] tiles>"],
+                "uniques": ["[+1 Production] from all [Production] buildings","Comment [+1 Production from all Production improvements]"],
                 "row": 1,
                 "column": 1
             },
             {
                 "name": "Collectivization of land",
                 "requires": ["Collectivization of industries"],
-                "uniques": ["[+1 Food] from all [Food] buildings","[+1 Food] <in [Farm] tiles>","[+1 Food] <in [Pasture] tiles>","[+1 Food] <in [Camp] tiles>","[+1 Food] <in [Fishing Boats] tiles>","[+1 Food] <in [Plantation] tiles>","[+1 Food] <in [Polder] tiles>","[+1 Food] <in [Terrace farm] tiles>"],
+                "uniques": ["[+1 Food] from all [Food] buildings","[+1 Food] <in [Farm] tiles>","[+1 Food] <in [Pasture] tiles>","[+1 Food] <in [Camp] tiles>","[+1 Food] <in [Fishing Boats] tiles>","[+1 Food] <in [Plantation] tiles>","[+1 Food] <in [Polder] tiles>","[+1 Food] <in [Terrace farm] tiles>","Comment [+1 Food from all Food improvements]"],
                 "row": 2,
                 "column": 1
             },
             {
                 "name": "Obsolete currency",
                 "requires": ["Collectivization of land"],
-                "uniques": [],
+                "uniques": ["Comment [The gold becomes useless and disappears]"],
                 "row": 3,
                 "column": 1
             },

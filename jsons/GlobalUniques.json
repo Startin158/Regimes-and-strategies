@@ -58,6 +58,18 @@
 "[+1 Gold] from [Offshore Platform] tiles [in all cities] <after adopting [wealth creation]>",
 "[+1 Gold] from [Quarry] tiles [in all cities] <after adopting [wealth creation]>",
 "[+2 Gold] from [Manufactory] tiles [in all cities] <after adopting [wealth creation]>",
-"[+1 Gold] from [Lumber mill] tiles [in all cities] <after adopting [wealth creation]>",
+"[+1 Gold] from [Lumber mill] tiles [in all cities] <after adopting [wealth creation]> ",
+
+
+"[+1 Happiness] [in all cities] <when above [500] [Gold]> <after adopting [capitalist society]>",
+"[+1 Happiness] [in all cities] <when above [1000] [Gold]> <after adopting [capitalist society]>",
+"[+1 Happiness] [in all cities] <when above [1500] [Gold]> <after adopting [capitalist society]>",
+"[+1 Happiness] [in all cities] <when above [2000] [Gold]> <after adopting [capitalist society]>",
+"[+1 Happiness] [in all cities] <when above [2500] [Gold]> <after adopting [capitalist society]>",
+"[+1 Happiness] [in all cities] <when above [3000] [Gold]> <after adopting [capitalist society]>",
+"[+1 Happiness] [in all cities] <when above [3500] [Gold]> <after adopting [capitalist society]>",
+"[+1 Happiness] [in all cities] <when above [4000] [Gold]> <after adopting [capitalist society]>",
+"[+1 Happiness] [in all cities] <when above [4500] [Gold]> <after adopting [capitalist society]>",
+"[+1 Happiness] [in all cities] <when above [5000] [Gold]> <after adopting [capitalist society]>",
 ]
 }

@@ -203,30 +203,30 @@
             "Domination": 8,
             "Scientific": 4
         },
-        "uniques": ["Adopt []","Only available <before adopting [Capitalism]>"],
+        "uniques": ["Adopt [Collectivization of industries]","Only available <before adopting [Capitalism]>"],
         "policies": [
             {
-                "name": "",
+                "name": "Collectivization of industries",
                 "uniques": [],
                 "row": 1,
                 "column": 1
             },
             {
-                "name": "",
-                "requires": [""],
+                "name": "Collectivization of land",
+                "requires": ["Collectivization of industries"],
                 "uniques": [],
                 "row": 2,
                 "column": 1
             },
             {
-                "name": "",
-                "requires": [""],
+                "name": "Obsolete currency",
+                "requires": ["Collectivization of land"],
                 "uniques": [],
                 "row": 3,
                 "column": 1
             },
             {
-                "name": " Complete",
+                "name": "Communism Complete",
                 "uniques": ["Comment []"]
             }
         ]

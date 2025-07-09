@@ -204,7 +204,7 @@
 //            "Scientific": 4
 //        },
 //        "uniques": ["Adopt [Collectivization of industries]","Only available <before adopting [Capitalism]>"],
-        "policies": [
+  //      "policies": [
 //                           "name": "Collectivization of industries",
 //                "uniques": ["[+1 Production] from all [Production] buildings","Comment [+1 Production from all Production improvements]"],
 //                "row": 1,

@@ -221,7 +221,7 @@
             {
                 "name": "Obsolete currency",
                 "requires": ["Collectivization of land"],
-                "uniques": ["Comment [The gold becomes useless and disappears]","[+2 Happiness] <in [Customs house] tiles>","[+1 Happiness] <in [Trading post] tiles>"],
+                "uniques": ["Comment [The gold becomes useless and disappears]","[+2 Happiness] <in [Customs house] tiles>","[+1 Happiness] <in [Trading post] tiles>","[+15]% [Happiness] [in all cities]"],
                 "row": 3,
                 "column": 1
             },

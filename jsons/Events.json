@@ -67,11 +67,10 @@
 {
         "name": "Génie?",
         "text": "Your advisors and the public are concerned that we have so few geniuses in our state while other nations have more... should something be done to attract or create geniuses?",
-        "uniques": ["Only available <when above [500] [Gold]>"]
         "choices": [
             {
                 "text": "Invest in bulk! How can others have more genius?!",
-                "uniques": ["Gain [-800] [Gold]","Free Great Person","Free [Great Artist] appears","Gain [0]-[-500] [Culture]"],
+                "uniques": ["Gain [-1000] [Gold]","Free Great Person","Free [Great Artist] appears","Gain [0]-[-500] [Culture]"],
             },
             {
                 "text": "invest",

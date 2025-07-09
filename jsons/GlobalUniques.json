@@ -29,6 +29,7 @@
 "[+2 Production] <in [Manufactory] tiles> <after adopting [Collectivization of industries]>",
 "[+1 Production] <in [Lumber mill] tiles> <after adopting [Collectivization of industries]>",
 
+
 "[+1 Food] <in [Farm] tiles> <after adopting [Collectivization of land]>",
 "[+1 Food] <in [Pasture] tiles> <after adopting [Collectivization of land]>",
 "[+1 Food] <in [Camp] tiles> <after adopting [Collectivization of land]>",
@@ -37,12 +38,13 @@
 "[+1 Food] <in [Polder] tiles> <after adopting [Collectivization of land]>",
 "[+1 Food] <in [Terrace farm] tiles> <after adopting [Collectivization of land]>"
 
-"Nullifies [Gold] [in all cities]",
-"No Maintenance costs for improvements in [all] tiles",
-"[-100]% maintenance on road & railroads",
-"[3571] units cost no maintenance",
-"[-100]% [Gold] from every [all]",
-"[-100]% maintenance cost for buildings [in all cities]",
-"[-100]% maintenance costs"
+
+"Nullifies [Gold] [in all cities] <after adopting [Obsolete currency]>",
+"No Maintenance costs for improvements in [all] tiles <after adopting [Obsolete currency]>",
+"[-100]% maintenance on road & railroads <after adopting [Obsolete currency]>",
+"[3571] units cost no maintenance <after adopting [Obsolete currency]>",
+"[-100]% [Gold] from every [all] <after adopting [Obsolete currency]>",
+"[-100]% maintenance cost for buildings [in all cities] <after adopting [Obsolete currency]>",
+"[-100]% maintenance costs <after adopting [Obsolete currency]>"
 ]
 }

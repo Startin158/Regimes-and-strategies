@@ -19,6 +19,14 @@
 
 "[+1 Gold] from all [Science] buildings <when above [50] [Tourism]>",
 "[+1 Gold] from all [Science] buildings <when above [100] [Tourism]>",
-"[+1 Culture] from all [Science] buildings <when above [200] [Tourism]>"
+"[+1 Culture] from all [Science] buildings <when above [200] [Tourism]>",
+
+
+"[+1 Production] <in [Mine] tiles>",
+"[+1 Production] <in [Oil well] tiles>",
+"[+1 Production] <in [Offshore Platform] tiles>",
+"[+1 Production] <in [Quarry] tiles>",
+"[+2 Production] <in [Manufactory] tiles>",
+"[+1 Production] <in [Lumber mill] tiles>"
 ]
 }

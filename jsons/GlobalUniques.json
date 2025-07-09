@@ -22,8 +22,8 @@
 "[+1 Culture] from all [Science] buildings <when above [200] [Tourism]>",
 
 
-"[+1 Production] <in [Mine] tiles> <after adopting [Collectivization of industries]>",
-"[+1 Production] <in [Oil well] tiles> <after adopting [Collectivization of industries]>",
+"[+1 Production] from [Mine] tiles [in all cities] <after adopting [Collectivization of industries]>",
+"[+1 Production] from [Oil well] tiles [in all cities] <after adopting [Collectivization of industries]>",
 "[+1 Production] <in [Offshore Platform] tiles> <after adopting [Collectivization of industries]>",
 "[+1 Production] <in [Quarry] tiles> <after adopting [Collectivization of industries]>",
 "[+2 Production] <in [Manufactory] tiles> <after adopting [Collectivization of industries]>",

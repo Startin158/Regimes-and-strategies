@@ -192,43 +192,42 @@
                 "uniques": ["Comment []"]
             }
         ]
-    }
-{
-        "name": "Communism",
-        "era": "Ancient era",
-        "priorities": {
-            "Neutral": 5,
-            "Cultural": 5,
-            "Diplomatic": 1,
-            "Domination": 8,
-            "Scientific": 4
-        },
-        "uniques": ["Adopt [Collectivization of industries]","Only available <before adopting [Capitalism]>"],
+    },
+//{
+//        "name": "Communism",
+//        "era": "Ancient era",
+//        "priorities": {
+//            "Neutral": 5,
+//            "Cultural": 5,
+//            "Diplomatic": 1,
+//            "Domination": 8,
+//            "Scientific": 4
+//        },
+//        "uniques": ["Adopt [Collectivization of industries]","Only available <before adopting [Capitalism]>"],
         "policies": [
-            {
-                "name": "Collectivization of industries",
-                "uniques": ["[+1 Production] from all [Production] buildings","Comment [+1 Production from all Production improvements]"],
-                "row": 1,
-                "column": 1
-            },
-            {
-                "name": "Collectivization of land",
-                "requires": ["Collectivization of industries"],
-                "uniques": ["[+1 Food] from all [Food] buildings","Comment [+1 Food from all Food improvements]"],
-                "row": 2,
-                "column": 1
-            },
-            {
-                "name": "Obsolete currency",
-                "requires": ["Collectivization of land"],
-                "uniques": ["Comment [The gold becomes useless and disappears]","[+2 Happiness] <in [Customs house] tiles>","[+1 Happiness] <in [Trading post] tiles>","[+15]% [Happiness] [in all cities]"],
-                "row": 3,
-                "column": 1
-            },
-            {
-                "name": "Communism Complete",
-                "uniques": ["Comment []"]
-            }
-        ]
-    }
+//                           "name": "Collectivization of industries",
+//                "uniques": ["[+1 Production] from all [Production] buildings","Comment [+1 Production from all Production improvements]"],
+//                "row": 1,
+ //               "column": 1
+ //           },
+  //          {
+ //               "name": "Collectivization of land"
+//                "requires": ["Collectivization of industries"],
+  //              "uniques": ["[+1 Food] from all [Food] buildings","Comment [+1 Food from all Food improvements]"],
+   //             "row": 2,
+   //             "column": 1
+    //        },
+       //     {
+    //            "name": "Obsolete currency",
+    //            "requires": ["Collectivization of land"],
+        //        "uniques": ["Comment [The gold becomes useless and disappears]","[+2 Happiness] <in [Customs house] tiles>","[+1 Happiness] <in [Trading post] tiles>","[+15]% [Happiness] [in all cities]"],
+     //           "row": 3,
+   //             "column": 1
+   //         },
+   //         {
+    //            "name": "Communism Complete",
+   //             "uniques": ["Comment []"]
+   //         }
+   //     ]
+   // }
 ]

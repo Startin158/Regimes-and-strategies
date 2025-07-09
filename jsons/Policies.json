@@ -250,7 +250,7 @@
                 "column": 1
             },
             {
-                "name": "Cost reduction",
+                "name": "cost reduction",
                 "requires": ["wealth creation"],
                 "uniques": [],
                 "row": 2,
@@ -258,7 +258,7 @@
             },
             {
                 "name": "capitalist society",
-                "requires": ["Cost reduction"],
+                "requires": ["cost reduction"],
                 "uniques": [],
                 "row": 3,
                 "column": 1

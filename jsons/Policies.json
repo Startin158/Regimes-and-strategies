@@ -197,11 +197,11 @@
         "name": "Communism.",
         "era": "Ancient era",
         "priorities": {
-            "Neutral": 5,
-            "Cultural": 5,
+            "Neutral": 1,
+            "Cultural": 9,
             "Diplomatic": 1,
-            "Domination": 8,
-            "Scientific": 4
+            "Domination": 9,
+            "Scientific": 5
        },
         "uniques": ["Adopt [Collectivization of industries]","Only available <before adopting [Capitalism]>"],
         "policies": [
@@ -227,6 +227,44 @@
             },
             {
                 "name": "Communism. Complete",
+                "uniques": ["Comment []"]
+            }
+        ]
+    }
+{
+        "name": "Capitalism",
+        "era": "Ancient era",
+        "priorities": {
+            "Neutral": 9,
+            "Cultural": 1,
+            "Diplomatic": 1,
+            "Domination": 9,
+            "Scientific": 5
+        },
+        "uniques": ["Adopt []","Only available <before adopting [Communism.]>"],
+        "policies": [
+            {
+                "name": "",
+                "uniques": [],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "",
+                "requires": [""],
+                "uniques": [],
+                "row": 2,
+                "column": 1
+            },
+            {
+                "name": "",
+                "requires": [""],
+                "uniques": [],
+                "row": 3,
+                "column": 1
+            },
+            {
+                "name": "Capitalism Complete",
                 "uniques": ["Comment []"]
             }
         ]

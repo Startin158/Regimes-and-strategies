@@ -252,7 +252,7 @@
             {
                 "name": "cost reduction",
                 "requires": ["wealth creation"],
-                "uniques": [],
+                "uniques": ["[20] units cost no maintenance","[-40]% maintenance on road & railroads","[-40]% maintenance cost for buildings [in all cities]"],
                 "row": 2,
                 "column": 1
             },

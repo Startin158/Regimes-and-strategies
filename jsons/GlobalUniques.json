@@ -22,11 +22,19 @@
 "[+1 Culture] from all [Science] buildings <when above [200] [Tourism]>",
 
 
-"[+1 Production] <in [Mine] tiles>",
-"[+1 Production] <in [Oil well] tiles>",
-"[+1 Production] <in [Offshore Platform] tiles>",
-"[+1 Production] <in [Quarry] tiles>",
-"[+2 Production] <in [Manufactory] tiles>",
-"[+1 Production] <in [Lumber mill] tiles>"
+"[+1 Production] <in [Mine] tiles> <after adopting [Collectivization of industries]>",
+"[+1 Production] <in [Oil well] tiles> <after adopting [Collectivization of industries]>",
+"[+1 Production] <in [Offshore Platform] tiles> <after adopting [Collectivization of industries]>",
+"[+1 Production] <in [Quarry] tiles> <after adopting [Collectivization of industries]>",
+"[+2 Production] <in [Manufactory] tiles> <after adopting [Collectivization of industries]>",
+"[+1 Production] <in [Lumber mill] tiles> <after adopting [Collectivization of industries]>",
+
+"[+1 Food] <in [Farm] tiles> <after adopting [Collectivization of land]>",
+"[+1 Food] <in [Pasture] tiles> <after adopting [Collectivization of land]>",
+"[+1 Food] <in [Camp] tiles> <after adopting [Collectivization of land]>",
+"[+1 Food] <in [Fishing Boats] tiles> <after adopting [Collectivization of land]>",
+"[+1 Food] <in [Plantation] tiles> <after adopting [Collectivization of land]>",
+"[+1 Food] <in [Polder] tiles> <after adopting [Collectivization of land]>",
+"[+1 Food] <in [Terrace farm] tiles> <after adopting [Collectivization of land]>"
 ]
 }

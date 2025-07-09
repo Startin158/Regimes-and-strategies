@@ -265,7 +265,7 @@
             },
             {
                 "name": "Capitalism Complete",
-                "uniques": ["Comment []"]
+                "uniques": ["Comment [+1 happiness in all cities every 500 gold up to 5000 gold]"]
             }
         ]
     }

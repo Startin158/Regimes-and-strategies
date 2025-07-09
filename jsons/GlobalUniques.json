@@ -59,5 +59,9 @@
 "[+1 Gold] from [Quarry] tiles [in all cities] <after adopting [wealth creation]>",
 "[+2 Gold] from [Manufactory] tiles [in all cities] <after adopting [wealth creation]>",
 "[+1 Gold] from [Lumber mill] tiles [in all cities] <after adopting [wealth creation]>",
+
+"[20] units cost no maintenance <after adopting [wealth creation]>",
+"[-30]% maintenance on road & railroads <after adopting [wealth creation]>",
+"[-30]% maintenance cost for buildings [in all cities] <after adopting [wealth creation]>",
 ]
 }

@@ -207,7 +207,7 @@
         "policies": [
             {
                 "name": "Collectivization of industries",
-                "uniques": ["[+1 Production] from all [Production] buildings"],
+                "uniques": ["[+1 Production] from all [Production] buildings","[+1 Production] <in [Mine] tiles>","[+1 Production] <in [Oil well] tiles>","[+1 Production] <in [Offshore Platform] tiles>"],
                 "row": 1,
                 "column": 1
             },

@@ -259,7 +259,7 @@
             {
                 "name": "capitalist society",
                 "requires": ["cost reduction"],
-                "uniques": [],
+                "uniques": ["Comment []","Comment []"],
                 "row": 3,
                 "column": 1
             },

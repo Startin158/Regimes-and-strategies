@@ -62,7 +62,7 @@
             {
                 "name": "elimination of opponents",
                 "requires": ["concentration of powers"],
-                "uniques": ["All newly-trained [All] units [in all cities] receive the [Child of the dictator]"],
+                "uniques": ["All newly-trained [All] units [in all cities] receive the [Child of the dictator] promotion"],
                 "row": 2,
                 "column": 1
             },
@@ -100,7 +100,7 @@
             {
                 "name": "popular defense",
                 "requires": ["power to the people"],
-                "uniques": ["All newly-trained [All] units [in all cities] receive the [Great ambition]"],
+                "uniques": ["All newly-trained [All] units [in all cities] receive the [Great ambition] promotion"],
                 "row": 2,
                 "column": 1
             },

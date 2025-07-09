@@ -46,5 +46,18 @@
 "[-100]% [Gold] from every [all] <after adopting [Obsolete currency]>",
 "[-100]% maintenance cost for buildings [in all cities] <after adopting [Obsolete currency]>",
 "[-100]% maintenance costs <after adopting [Obsolete currency]>"
+
+
+
+
+"[+1 Gold] from all [Gold] buildings <after adopting [wealth creation]>",
+"[+2 Gold] from [Customs house] tiles [in all cities] <after adopting [wealth creation]>",
+"[+1 Gold] from [Trading post] tiles [in all cities] <after adopting [wealth creation]>"
+"[+1 Production] from [Mine] tiles [in all cities] <after adopting [wealth creation]>",
+"[+1 Gold] from [Oil well] tiles [in all cities] <after adopting [wealth creation]>",
+"[+1 Gold] from [Offshore Platform] tiles [in all cities] <after adopting [wealth creation]>",
+"[+1 Gold] from [Quarry] tiles [in all cities] <after adopting [wealth creation]>",
+"[+2 Gold] from [Manufactory] tiles [in all cities] <after adopting [wealth creation]>",
+"[+1 Gold] from [Lumber mill] tiles [in all cities] <after adopting [wealth creation]>",
 ]
 }

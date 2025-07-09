@@ -214,7 +214,7 @@
             {
                 "name": "Collectivization of land",
                 "requires": ["Collectivization of industries"],
-                "uniques": ["[+1 Food] from all [Food] buildings","[+1 Food] <in [Farm] tiles>","[+1 Food] <in [Pasture] tiles>","[+1 Food] <in [Camp] tiles>","[+1 Food] <in [Fishing Boats] tiles>","[+1 Food] <in [Plantation] tiles>","","",""],
+                "uniques": ["[+1 Food] from all [Food] buildings","[+1 Food] <in [Farm] tiles>","[+1 Food] <in [Pasture] tiles>","[+1 Food] <in [Camp] tiles>","[+1 Food] <in [Fishing Boats] tiles>","[+1 Food] <in [Plantation] tiles>","[+1 Food] <in [Polder] tiles>","[+1 Food] <in [Terrace farm] tiles>"],
                 "row": 2,
                 "column": 1
             },

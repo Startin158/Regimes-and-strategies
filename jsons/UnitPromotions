@@ -12,6 +12,10 @@
     },
 {
                 "name": "assault technique",
-                "uniques": ["","","[20]% Strength <when attacking>"],
+                "uniques": ["[30]% Strength <when fighting in [Foreign Land] tiles>","[-10]% Strength <when fighting in [Friendly Land] tiles>"],
+    }
+{
+                "name": "bdb",
+                "uniques": ["[40]% Strength <when fighting in [Friendly Land] tiles>"],
     }
 ]

@@ -2,7 +2,7 @@
 
         {
                 "name": "Child of the dictator",
-                "uniques": ["[10] XP gained from combat","[6] XP gained from combat <when at war>","[20]% Strength <when attacking>"],
+                "uniques": ["[10] XP gained from combat","[6] XP gained from combat <when at war>","[10]% Strength <when attacking>"],
     }
 [
 
@@ -10,4 +10,8 @@
                 "name": "Great ambition",
                 "uniques": ["All healing effects doubled <when at war>","Heals [10] damage if it kills a unit","May heal outside of friendly territory"],
     },
+{
+                "name": "assault technique",
+                "uniques": ["","","[20]% Strength <when attacking>"],
+    }
 ]

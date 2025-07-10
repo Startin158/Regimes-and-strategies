@@ -11,11 +11,11 @@
                 "uniques": ["All healing effects doubled <when at war>","Heals [10] damage if it kills a unit","May heal outside of friendly territory"],
     },
 {
-                "name": "assault technique",
+                "name": "Assault technique",
                 "uniques": ["[30]% Strength <when fighting in [Foreign Land] tiles>","[-10]% Strength <when fighting in [Friendly Land] tiles>"],
     }
 {
-                "name": "bdb",
+                "name": "Defense technique",
                 "uniques": ["[40]% Strength <when fighting in [Friendly Land] tiles>"],
     }
 ]

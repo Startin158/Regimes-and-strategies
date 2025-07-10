@@ -230,7 +230,7 @@
                 "uniques": ["Comment []"]
             }
         ]
-    }
+    },
 {
         "name": "Capitalism",
         "era": "Ancient era",
@@ -268,7 +268,7 @@
                 "uniques": ["Comment [+1 happiness in all cities every 500 gold up to 5000 gold]"]
             }
         ]
-    }
+    },
 {
         "name": "Aggressive state",
         "era": "Ancient era",
@@ -303,6 +303,44 @@
             },
             {
                 "name": "Aggressive state Complete",
+                "uniques": ["Comment []"]
+            }
+        ]
+    },
+{
+        "name": "Defensive state",
+        "era": "Ancient era",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 5,
+            "Diplomatic": 9,
+            "Domination": 1,
+            "Scientific": 5
+        },
+        "uniques": ["Adopt []","Only available <before adopting [Aggressive state]>"],
+        "policies": [
+            {
+                "name": "",
+                "uniques": ["All newly-trained [All] units [in all cities] receive the [assault technique] promotion"],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "",
+                "requires": [""],
+                "uniques": [],
+                "row": 2,
+                "column": 1
+            },
+            {
+                "name": "defensive roads",
+                "requires": [""],
+                "uniques": ["Comment [The roads give défensive bonus]"],
+                "row": 3,
+                "column": 1
+            },
+            {
+                "name": "Defensive state Complete",
                 "uniques": ["Comment []"]
             }
         ]

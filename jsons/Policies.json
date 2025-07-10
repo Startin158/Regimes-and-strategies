@@ -295,9 +295,9 @@
                 "column": 1
             },
             {
-                "name": "seat arrangement",
+                "name": "attaque improvement",
                 "requires": ["military production"],
-                "uniques": [],
+                "uniques": ["Comment [Can build the "attack post" improvement]"],
                 "row": 3,
                 "column": 1
             },

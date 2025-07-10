@@ -270,7 +270,7 @@
         ]
     }
 {
-        "name": "",
+        "name": "Aggressive state",
         "era": "Ancient era",
         "priorities": {
             "Neutral": 5,
@@ -279,30 +279,30 @@
             "Domination": 8,
             "Scientific": 4
         },
-        "uniques": ["Adopt []","Only available <before adopting []>"],
+        "uniques": ["Adopt [assault technique]","Only available <before adopting [Defensive state]>"],
         "policies": [
             {
-                "name": "",
+                "name": "assault technique",
                 "uniques": [],
                 "row": 1,
                 "column": 1
             },
             {
-                "name": "",
-                "requires": [""],
+                "name": "military production",
+                "requires": ["assault technique"],
                 "uniques": [],
                 "row": 2,
                 "column": 1
             },
             {
-                "name": "",
-                "requires": [""],
+                "name": "seat arrangement",
+                "requires": ["military production"],
                 "uniques": [],
                 "row": 3,
                 "column": 1
             },
             {
-                "name": " Complete",
+                "name": "Aggressive state Complete",
                 "uniques": ["Comment []"]
             }
         ]

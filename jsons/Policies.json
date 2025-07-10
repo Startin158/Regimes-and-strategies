@@ -276,14 +276,14 @@
             "Neutral": 5,
             "Cultural": 5,
             "Diplomatic": 1,
-            "Domination": 8,
-            "Scientific": 4
+            "Domination": 9,
+            "Scientific": 5
         },
         "uniques": ["Adopt [assault technique]","Only available <before adopting [Defensive state]>"],
         "policies": [
             {
                 "name": "assault technique",
-                "uniques": [],
+                "uniques": ["All newly-trained [All] units [in all cities] receive the [assault technique] promotion"],
                 "row": 1,
                 "column": 1
             },

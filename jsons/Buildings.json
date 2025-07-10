@@ -50,7 +50,7 @@
 		"requiredTech": "Metallurgy",
 		"uniques": ["Destroyed when the city is captured","[+20]% Strength <after adopting [fortified city]>"]
 	},
-
+{
 		"name": "Military Base",
 		"cityStrength": 12,
 		"cityHealth": 25,

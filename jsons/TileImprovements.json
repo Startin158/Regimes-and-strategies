@@ -46,4 +46,9 @@
 			"Removes removable features when built",
             "Will not be replaced by automated units","Provides [2] [Tourism]","Provides [1] [Army]"]
 	},
+{
+		"name": "attack post",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Adjacent enemy units ending their turn take [30] damage","Can only be built on [Foreign Land] tiles"]
+	},
 ]

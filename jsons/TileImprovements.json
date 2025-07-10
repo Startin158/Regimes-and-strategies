@@ -49,8 +49,9 @@
 {
 		"name": "attack post",
 		"terrainsCanBeBuiltOn": ["Land"],
+  "production": 2,
   "turnsToBuild": 4,
-		"uniques": ["Adjacent enemy units ending their turn take [30] damage","Can only be built on [Foreign Land] tiles"]
+		"uniques": ["Adjacent enemy units ending their turn take [30] damage","Can only be built on [Foreign Land] tiles","Only available <after adopting [attaque improvement]>"]
   "shortcutKey": "F"
 	},
 ]

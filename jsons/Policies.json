@@ -328,7 +328,7 @@
             {
                 "name": "fortified city",
                 "requires": ["defense technique"],
-                "uniques": [],
+                "uniques": ["Comment [Buildings that strengthen the power of cities are more efficient]"],
                 "row": 2,
                 "column": 1
             },

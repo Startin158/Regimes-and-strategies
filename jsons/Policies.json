@@ -297,7 +297,7 @@
             {
                 "name": "attaque improvement",
                 "requires": ["military production"],
-                "uniques": ["Comment [Can build the "attack post" improvement]"],
+                "uniques": ["Comment [Can build the ''attack post'' improvement]"],
                 "row": 3,
                 "column": 1
             },

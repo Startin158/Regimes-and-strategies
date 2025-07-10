@@ -59,7 +59,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 4,
 		"techRequired": "The Wheel",
-		"uniques": ["Can be built outside your borders", "Costs [1] [Gold] per turn","Gives a defensive bonus of [30]% <after adopting [defensive routes]>"],
+		"uniques": ["Can be built outside your borders", "Costs [1] [Gold] per turn","Gives a defensive bonus of [30]% <after adopting [defensive roads]>"],
 		"shortcutKey": "R",
         "civilopediaText": [
             {"text":"Reduces movement cost to ½ if the other tile also has a Road or Railroad"},
@@ -72,7 +72,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 4,
 		"techRequired": "Railroads",
-		"uniques": ["Can be built outside your borders", "Costs [2] [Gold] per turn","Gives a defensive bonus of [30]% <after adopting [defensive routes]>"],
+		"uniques": ["Can be built outside your borders", "Costs [2] [Gold] per turn","Gives a defensive bonus of [30]% <after adopting [defensive roads]>"],
 		"shortcutKey": "R",
         "civilopediaText": [
             {"text":"Reduces movement cost to ⅒ if the other tile also has a Railroad"},
